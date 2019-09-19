@@ -6,7 +6,7 @@ python plot_img.py --> generate result image<br>
 python steepest.py<br>
 python plot_img.py  (need to change parameters)<br>
 
-Algorithm<br>
+# Algorithm
 ![formula1](https://github.com/aceansgar/numerical_analysis/blob/master/image_interpolate_and_fill/image_readme/formula1.png)
 ![formula2](https://github.com/aceansgar/numerical_analysis/blob/master/image_interpolate_and_fill/image_readme/formula2.png)
 
