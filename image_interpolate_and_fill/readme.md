@@ -7,8 +7,8 @@ python steepest.py<br>
 python plot_img.py  (need to change parameters)<br>
 
 Algorithm<br>
-
-
+![formula1](https://github.com/aceansgar/numerical_analysis/blob/master/image_interpolate_and_fill/image_readme/formula1.png)
+![formula2](https://github.com/aceansgar/numerical_analysis/blob/master/image_interpolate_and_fill/image_readme/formula2.png)
 Minimization of E can be converted to a linear system<br>
 Use conjugate gradient method to solve Ax=b<br>
 However, A is not positive definite<br>
